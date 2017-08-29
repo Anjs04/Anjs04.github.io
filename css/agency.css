@@ -82,7 +82,7 @@ body {
     font-weight: 400;
     padding: 0.75em 0;
     letter-spacing: 1px;
-    color: black;
+    color: #222222;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
@@ -114,7 +114,7 @@ body {
 
 header.masthead {
   text-align: center;
-  color: black;
+  color: #222222;
   background-image: url("../img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -561,7 +561,7 @@ ul.social-buttons {
   font-weight: 700;
   padding: 20px 40px;
   border-radius: 3px;
-  color: black;
+  color: #222222;
   border-color: #fed136;
   background-color: #fed136;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
