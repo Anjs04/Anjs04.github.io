@@ -1,0 +1,372 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+html	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^<html lang="en">$/;"	function	line:2
+head	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^  <head>$/;"	function	line:4
+meta	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <meta charset="utf-8">$/;"	function	line:6
+meta	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">$/;"	function	line:7
+meta	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <meta name="description" content="">$/;"	function	line:8
+meta	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <meta name="author" content="">$/;"	function	line:9
+title	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <title>Anjali Sharma - Data Analyst Portfolio<\/title>$/;"	function	line:11
+link	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <link href="vendor\/bootstrap\/css\/bootstrap.min.css" rel="stylesheet">$/;"	function	line:14
+link	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <link href="vendor\/font-awesome\/css\/font-awesome.min.css" rel="stylesheet" type="text\/css">$/;"	function	line:17
+link	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <link href="https:\/\/fonts.googleapis.com\/css?family=Montserrat:400,700" rel="stylesheet" type="text\/css">$/;"	function	line:18
+link	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <link href='https:\/\/fonts.googleapis.com\/css?family=Kaushan+Script' rel='stylesheet' type='text\/css'>$/;"	function	line:19
+link	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <link href='https:\/\/fonts.googleapis.com\/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text\/css'>$/;"	function	line:20
+link	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <link href='https:\/\/fonts.googleapis.com\/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text\/css'>$/;"	function	line:21
+link	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <link href="css\/agency.css" rel="stylesheet">$/;"	function	line:24
+body	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^  <body id="page-top">$/;"	function	line:28
+nav	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">$/;"	function	line:31
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^      <div class="container">$/;"	function	line:32
+a	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^        <a class="navbar-brand js-scroll-trigger" href="#page-top"> <\/a>$/;"	function	line:33
+button	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">$/;"	function	line:34
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <i class="fa fa-bars"><\/i>$/;"	function	line:36
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^        <div class="collapse navbar-collapse" id="navbarResponsive">$/;"	function	line:38
+ul	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <ul class="navbar-nav ml-auto">$/;"	function	line:39
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <li class="nav-item">$/;"	function	line:40
+a	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <a class="nav-link js-scroll-trigger" href="#services">Skills<\/a>$/;"	function	line:41
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <li class="nav-item">$/;"	function	line:43
+a	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio<\/a>$/;"	function	line:44
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <li class="nav-item">$/;"	function	line:47
+a	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <a class="nav-link js-scroll-trigger" href="#about">About<\/a>$/;"	function	line:48
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <li class="nav-item">$/;"	function	line:51
+a	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <a class="nav-link js-scroll-trigger" href="#contact">Contact<\/a>$/;"	function	line:52
+header	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <header class="masthead">$/;"	function	line:60
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^      <div class="container">$/;"	function	line:61
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^        <div class="intro-text">$/;"	function	line:62
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="intro-heading">Anjali Sharma<\/div>$/;"	function	line:63
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="intro-lead-in">Consultant Data Analyst<\/div>$/;"	function	line:64
+a	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <a class="btn btn-xl js-scroll-trigger" href="#services">Tell Me More<\/a>$/;"	function	line:65
+section	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <section id="services">$/;"	function	line:71
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^      <div class="container">$/;"	function	line:72
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^        <div class="row">$/;"	function	line:73
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="col-lg-12 text-center">$/;"	function	line:74
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <h2 class="section-heading">Skills<\/h2>$/;"	function	line:75
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <h3 class="section-subheading text-muted">Open-source and commercial software<\/h3>$/;"	function	line:76
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^        <div class="row text-center">$/;"	function	line:79
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="col-md-4">$/;"	function	line:80
+span	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <span class="fa-stack fa-4x">$/;"	function	line:81
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <i class="fa fa-circle fa-stack-2x text-primary"><\/i>$/;"	function	line:82
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <i class="fa fa-code fa-stack-1x fa-inverse"><\/i>$/;"	function	line:83
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <h4 class="service-heading">R<\/h4>$/;"	function	line:85
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <p class="text-muted">● Automated executable R scripts<\/p>$/;"	function	line:86
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <p class="text-muted">● Data visualisation with ggplot2<\/p>$/;"	function	line:87
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <p class="text-muted">● Using tidyverse and data.table<\/p>$/;"	function	line:88
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <p class="text-muted">● Spatial and census data<\/p>$/;"	function	line:89
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="col-md-4">$/;"	function	line:91
+span	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <span class="fa-stack fa-4x">$/;"	function	line:92
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <i class="fa fa-circle fa-stack-2x text-primary"><\/i>$/;"	function	line:93
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <i class="fa fa-bar-chart fa-stack-1x fa-inverse"><\/i>$/;"	function	line:94
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <h4 class="service-heading">Tableau<\/h4>$/;"	function	line:96
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <p class="text-muted">● Custom mapping with ABS shapefiles<\/p>$/;"	function	line:97
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <p class="text-muted">● Dashboards with minimalist styling<\/p>$/;"	function	line:98
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <p class="text-muted">● Path mapping of transport journeys<\/p>$/;"	function	line:99
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <p class="text-muted">● Filters and calculated fields<\/p>$/;"	function	line:100
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="col-md-4">$/;"	function	line:102
+span	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <span class="fa-stack fa-4x">$/;"	function	line:103
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <i class="fa fa-circle fa-stack-2x text-primary"><\/i>$/;"	function	line:104
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <i class="fa fa-globe fa-stack-1x fa-inverse"><\/i>$/;"	function	line:105
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <h4 class="service-heading">QGIS<\/h4>$/;"	function	line:107
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <p class="text-muted">● Concordances by area or centroid<\/p>$/;"	function	line:108
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <p class="text-muted">● Joining public and private data<\/p>$/;"	function	line:109
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <p class="text-muted">● Simple mapping and styling<\/p>$/;"	function	line:110
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <p class="text-muted">● Cleaning ABS shapefiles<\/p>$/;"	function	line:111
+section	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <section class="bg-light" id="portfolio">$/;"	function	line:118
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^      <div class="container">$/;"	function	line:119
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^        <div class="row">$/;"	function	line:120
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="col-lg-12 text-center">$/;"	function	line:121
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <h2 class="section-heading"> Portfolio <\/h2>$/;"	function	line:122
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <h3 class="section-subheading text-muted"> <\/h3>$/;"	function	line:123
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^        <div class="row">$/;"	function	line:126
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="col-md-4 col-sm-6 portfolio-item">$/;"	function	line:127
+a	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">$/;"	function	line:128
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <div class="portfolio-hover">$/;"	function	line:129
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="portfolio-hover-content">$/;"	function	line:130
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <i class="fa fa-plus fa-3x"><\/i>$/;"	function	line:131
+img	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <img class="img-fluid" src="img\/svg\/003-computer.svg" alt="">$/;"	function	line:134
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <div class="portfolio-caption">$/;"	function	line:136
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <h4>Automating Checks of Forecasts<\/h4>$/;"	function	line:137
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <p class="text-muted">Automation<\/p>$/;"	function	line:138
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="col-md-4 col-sm-6 portfolio-item">$/;"	function	line:141
+a	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">$/;"	function	line:142
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <div class="portfolio-hover">$/;"	function	line:143
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="portfolio-hover-content">$/;"	function	line:144
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <i class="fa fa-plus fa-3x"><\/i>$/;"	function	line:145
+img	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <img class="img-fluid" src="img\/svg\/006-construction.svg" alt="">$/;"	function	line:148
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <div class="portfolio-caption">$/;"	function	line:150
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <h4>Estimating Rental Rebates<\/h4>$/;"	function	line:151
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <p class="text-muted"> What-if Analysis of DSS Demographics Data<\/p>$/;"	function	line:152
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="col-md-4 col-sm-6 portfolio-item">$/;"	function	line:155
+a	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">$/;"	function	line:156
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <div class="portfolio-hover">$/;"	function	line:157
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="portfolio-hover-content">$/;"	function	line:158
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <i class="fa fa-plus fa-3x"><\/i>$/;"	function	line:159
+img	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <img class="img-fluid" src="img\/svg\/004-bus.svg" alt="">$/;"	function	line:162
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <div class="portfolio-caption">$/;"	function	line:164
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <h4>Journeying Through Opal Data<\/h4>$/;"	function	line:165
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <p class="text-muted">Path Mapping in Tableau with Opal Data<\/p>$/;"	function	line:166
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="col-md-4 col-sm-6 portfolio-item">$/;"	function	line:169
+a	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">$/;"	function	line:170
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <div class="portfolio-hover">$/;"	function	line:171
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="portfolio-hover-content">$/;"	function	line:172
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <i class="fa fa-plus fa-3x"><\/i>$/;"	function	line:173
+img	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <img class="img-fluid" src="img\/svg\/002-australia.svg" alt="">$/;"	function	line:176
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <div class="portfolio-caption">$/;"	function	line:178
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <h4>Surveying Digital Capacity<\/h4>$/;"	function	line:179
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <p class="text-muted">Survey Data Analysis GIS mapping in R<\/p>$/;"	function	line:180
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="col-md-4 col-sm-6 portfolio-item">$/;"	function	line:183
+a	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal5">$/;"	function	line:184
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <div class="portfolio-hover">$/;"	function	line:185
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="portfolio-hover-content">$/;"	function	line:186
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <i class="fa fa-plus fa-3x"><\/i>$/;"	function	line:187
+img	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <img class="img-fluid" src="img\/svg\/005-tool.svg" alt="">$/;"	function	line:190
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <div class="portfolio-caption">$/;"	function	line:192
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <h4>Minimising Injuries and Severity<\/h4>$/;"	function	line:193
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <p class="text-muted">Feature Engineering<\/p>$/;"	function	line:194
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="col-md-4 col-sm-6 portfolio-item">$/;"	function	line:197
+a	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">$/;"	function	line:198
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <div class="portfolio-hover">$/;"	function	line:199
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="portfolio-hover-content">$/;"	function	line:200
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <i class="fa fa-plus fa-3x"><\/i>$/;"	function	line:201
+img	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <img class="img-fluid" src="img\/svg\/001-coins.svg" alt="">$/;"	function	line:204
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <div class="portfolio-caption">$/;"	function	line:206
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <h4>Analysing Unclaimed Money<\/h4>$/;"	function	line:207
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <p class="text-muted">Linear Modelling of Financial Data<\/p>$/;"	function	line:208
+section	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <section id="about">$/;"	function	line:216
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^      <div class="container">$/;"	function	line:217
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^        <div class="row">$/;"	function	line:218
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="col-lg-12 text-center">$/;"	function	line:219
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <h2 class="section-heading">About<\/h2>$/;"	function	line:220
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.<\/h3>$/;"	function	line:221
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^        <div class="row">$/;"	function	line:224
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="col-lg-12">$/;"	function	line:225
+ul	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <ul class="timeline">$/;"	function	line:226
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <li>$/;"	function	line:227
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="timeline-image">$/;"	function	line:228
+img	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <img class="rounded-circle img-fluid" src="img\/about\/1.jpg" alt="">$/;"	function	line:229
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="timeline-panel">$/;"	function	line:231
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <div class="timeline-heading">$/;"	function	line:232
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <h4>2009-2011<\/h4>$/;"	function	line:233
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <h4 class="subheading">Our Humble Beginnings<\/h4>$/;"	function	line:234
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <div class="timeline-body">$/;"	function	line:236
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!<\/p>$/;"	function	line:237
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <li class="timeline-inverted">$/;"	function	line:241
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="timeline-image">$/;"	function	line:242
+img	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <img class="rounded-circle img-fluid" src="img\/about\/2.jpg" alt="">$/;"	function	line:243
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="timeline-panel">$/;"	function	line:245
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <div class="timeline-heading">$/;"	function	line:246
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <h4>March 2011<\/h4>$/;"	function	line:247
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <h4 class="subheading">An Agency is Born<\/h4>$/;"	function	line:248
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <div class="timeline-body">$/;"	function	line:250
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!<\/p>$/;"	function	line:251
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <li>$/;"	function	line:255
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="timeline-image">$/;"	function	line:256
+img	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <img class="rounded-circle img-fluid" src="img\/about\/3.jpg" alt="">$/;"	function	line:257
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="timeline-panel">$/;"	function	line:259
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <div class="timeline-heading">$/;"	function	line:260
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <h4>December 2012<\/h4>$/;"	function	line:261
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <h4 class="subheading">Transition to Full Service<\/h4>$/;"	function	line:262
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <div class="timeline-body">$/;"	function	line:264
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!<\/p>$/;"	function	line:265
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <li class="timeline-inverted">$/;"	function	line:269
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="timeline-image">$/;"	function	line:270
+img	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <img class="rounded-circle img-fluid" src="img\/about\/4.jpg" alt="">$/;"	function	line:271
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="timeline-panel">$/;"	function	line:273
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <div class="timeline-heading">$/;"	function	line:274
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <h4>July 2014<\/h4>$/;"	function	line:275
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <h4 class="subheading">Phase Two Expansion<\/h4>$/;"	function	line:276
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <div class="timeline-body">$/;"	function	line:278
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!<\/p>$/;"	function	line:279
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <li class="timeline-inverted">$/;"	function	line:283
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="timeline-image">$/;"	function	line:284
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <h4>Be Part$/;"	function	line:285
+br	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <br>Of Our$/;"	function	line:286
+br	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <br>Story!<\/h4>$/;"	function	line:287
+section	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <section id="contact">$/;"	function	line:298
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^      <div class="container">$/;"	function	line:299
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^        <div class="row">$/;"	function	line:300
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="col-lg-12 text-center">$/;"	function	line:301
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <h2 class="section-heading">Contact Us<\/h2>$/;"	function	line:302
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <h3 class="section-subheading text-muted"><\/h3>$/;"	function	line:303
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^        <div class="row">$/;"	function	line:306
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="col-lg-12">$/;"	function	line:307
+form	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <form id="contactForm" name="sentMessage" novalidate>$/;"	function	line:308
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <div class="row">$/;"	function	line:309
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="col-md-6">$/;"	function	line:310
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <div class="form-group">$/;"	function	line:311
+input	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <input class="form-control" id="name" type="text" placeholder="Your Name *" required data-validation-required-message="Please enter your name.">$/;"	function	line:312
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <p class="help-block text-danger"><\/p>$/;"	function	line:313
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <div class="form-group">$/;"	function	line:315
+input	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <input class="form-control" id="email" type="email" placeholder="Your Email *" required data-validation-required-message="Please enter your email address.">$/;"	function	line:316
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <p class="help-block text-danger"><\/p>$/;"	function	line:317
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <div class="form-group">$/;"	function	line:319
+input	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" required data-validation-required-message="Please enter your phone number.">$/;"	function	line:320
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <p class="help-block text-danger"><\/p>$/;"	function	line:321
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="col-md-6">$/;"	function	line:324
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <div class="form-group">$/;"	function	line:325
+textarea	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <textarea class="form-control" id="message" placeholder="Your Message *" required data-validation-required-message="Please enter a message."><\/textarea>$/;"	function	line:326
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <p class="help-block text-danger"><\/p>$/;"	function	line:327
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="clearfix"><\/div>$/;"	function	line:330
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="col-lg-12 text-center">$/;"	function	line:331
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <div id="success"><\/div>$/;"	function	line:332
+button	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <button id="sendMessageButton" class="btn btn-xl" type="submit">Send Message<\/button>$/;"	function	line:333
+footer	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <footer>$/;"	function	line:343
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^      <div class="container">$/;"	function	line:344
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^        <div class="row">$/;"	function	line:345
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="col-md-4">$/;"	function	line:346
+span	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <span class="copyright">Copyright &copy; 2017<\/span>$/;"	function	line:347
+br	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <br>$/;"	function	line:348
+span	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <span class="copyright">Icons designed by Good Ware, Freepik and Eucalyp from Flaticon<\/span>$/;"	function	line:349
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="col-md-4">$/;"	function	line:351
+ul	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <ul class="list-inline social-buttons">$/;"	function	line:352
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <li class="list-inline-item">$/;"	function	line:353
+a	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <a href="https:\/\/www.linkedin.com\/in\/anjalisharma2104\/">$/;"	function	line:354
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <i class="fa fa-linkedin"><\/i>$/;"	function	line:355
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="col-md-4">$/;"	function	line:360
+ul	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <ul class="list-inline quicklinks">$/;"	function	line:361
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">$/;"	function	line:371
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^      <div class="modal-dialog">$/;"	function	line:372
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^        <div class="modal-content">$/;"	function	line:373
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="close-modal" data-dismiss="modal">$/;"	function	line:374
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <div class="lr">$/;"	function	line:375
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <div class="rl"><\/div>$/;"	function	line:376
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="container">$/;"	function	line:379
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <div class="row">$/;"	function	line:380
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <div class="col-lg-8 mx-auto">$/;"	function	line:381
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="modal-body">$/;"	function	line:382
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <h2>Automating Checks of Forecasts<\/h2>$/;"	function	line:384
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <p class="item-intro text-muted">Automation<\/p>$/;"	function	line:385
+img	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <img class="img-fluid d-block mx-auto" src="img\/portfolio\/01-full.jpg" alt="">$/;"	function	line:386
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <p> Automating checks and remodeling the base forecast for major future transport projects, including population and employment per travel zone.$/;"	function	line:387
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <li>Coded checks for negative values, control totals by the year and statistical area.<\/li>$/;"	function	line:388
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <li>Created an executable R file to generate the checks.<\/li>$/;"	function	line:389
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <li>Produced flexible code with a user manual containing all data assumptions.<\/li>$/;"	function	line:390
+ul	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <ul class="list-inline">$/;"	function	line:392
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Date: July 2017<\/li>$/;"	function	line:393
+button	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <button class="btn btn-primary" data-dismiss="modal" type="button">$/;"	function	line:395
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <i class="fa fa-times"><\/i>$/;"	function	line:396
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">$/;"	function	line:407
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^      <div class="modal-dialog">$/;"	function	line:408
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^        <div class="modal-content">$/;"	function	line:409
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="close-modal" data-dismiss="modal">$/;"	function	line:410
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <div class="lr">$/;"	function	line:411
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <div class="rl"><\/div>$/;"	function	line:412
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="container">$/;"	function	line:415
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <div class="row">$/;"	function	line:416
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <div class="col-lg-8 mx-auto">$/;"	function	line:417
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="modal-body">$/;"	function	line:418
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <h2>Estimating Rental Rebates<\/h2>$/;"	function	line:420
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <p class="item-intro text-muted">What-if Analysis of DSS Demographics Data<\/p>$/;"	function	line:421
+img	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <img class="img-fluid d-block mx-auto" src="img\/portfolio\/02-full.jpg" alt="">$/;"	function	line:422
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <p>$/;"	function	line:423
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Developed full plan for analysis by assessing available data.<\/li>$/;"	function	line:424
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Integrated SGS Rental Affordability Index with public Dep. of Social Services data.<\/li>$/;"	function	line:425
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Conducted what-if analysis using assumptions of income for four target groups.<\/li>$/;"	function	line:426
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Estimated the housing stress of each target group, used to estimate budget.<\/li>$/;"	function	line:427
+ul	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <ul class="list-inline">$/;"	function	line:429
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Date: June 2017<\/li>$/;"	function	line:430
+button	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <button class="btn btn-primary" data-dismiss="modal" type="button">$/;"	function	line:432
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <i class="fa fa-times"><\/i>$/;"	function	line:433
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">$/;"	function	line:444
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^      <div class="modal-dialog">$/;"	function	line:445
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^        <div class="modal-content">$/;"	function	line:446
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="close-modal" data-dismiss="modal">$/;"	function	line:447
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <div class="lr">$/;"	function	line:448
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <div class="rl"><\/div>$/;"	function	line:449
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="container">$/;"	function	line:452
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <div class="row">$/;"	function	line:453
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <div class="col-lg-8 mx-auto">$/;"	function	line:454
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="modal-body">$/;"	function	line:455
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <h2>Journeying Through Opal Data<\/h2>$/;"	function	line:457
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <p class="item-intro text-muted">Path Mapping in Tableau with Opal Data<\/p>$/;"	function	line:458
+img	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <img class="img-fluid d-block mx-auto" src="img\/portfolio\/03-full.jpg" alt="">$/;"	function	line:459
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <p>$/;"	function	line:460
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Joined requested Opal data with GTFS data for mapping.<\/li>$/;"	function	line:461
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Joined with statistical areas for aggregation of the LGA of the origin, to the University destination.<\/li>$/;"	function	line:462
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Produced Tableau dashboard using paths to map journeys with dynamic filters.<\/li>$/;"	function	line:463
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Aggregated publically available Journey to Work data.<\/li>$/;"	function	line:464
+ul	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <ul class="list-inline">$/;"	function	line:466
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Date: May 2017<\/li>$/;"	function	line:467
+button	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <button class="btn btn-primary" data-dismiss="modal" type="button">$/;"	function	line:469
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <i class="fa fa-times"><\/i>$/;"	function	line:470
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">$/;"	function	line:481
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^      <div class="modal-dialog">$/;"	function	line:482
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^        <div class="modal-content">$/;"	function	line:483
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="close-modal" data-dismiss="modal">$/;"	function	line:484
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <div class="lr">$/;"	function	line:485
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <div class="rl"><\/div>$/;"	function	line:486
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="container">$/;"	function	line:489
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <div class="row">$/;"	function	line:490
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <div class="col-lg-8 mx-auto">$/;"	function	line:491
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="modal-body">$/;"	function	line:492
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <h2>Surveying Digital Capacity<\/h2>$/;"	function	line:494
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <p class="item-intro text-muted">Survey Data Analysis GIS mapping in R<\/p>$/;"	function	line:495
+img	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <img class="img-fluid d-block mx-auto" src="img\/portfolio\/04-full.jpg" alt="">$/;"	function	line:496
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <p>$/;"	function	line:497
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Casual researcher with the Institute of Culture and Society at Western Sydney University.<\/li>$/;"	function	line:498
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Conducted spatial analysis using private and open data in order to enable better informed public policy decisions about future digital infrastructure, regulatory frameworks, research, and strategies for enhancing digital capacity and support across communities.<\/li>$/;"	function	line:499
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Co-authored a journal article on the Digital Capacity Index.<\/li>$/;"	function	line:500
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Designed and coded choropleth and scatterplot maps using GIS capabilities within R using ABS-provided shapefiles with the ggplot2 package.<\/li>$/;"	function	line:501
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Created interactive graphs using Plotly integrated with R.<\/li>$/;"	function	line:502
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Produced correlation matrix to show clustering of digital capacities.<\/li>$/;"	function	line:503
+ul	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <ul class="list-inline">$/;"	function	line:505
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Date: December 2015, April - May 2016<\/li>$/;"	function	line:506
+button	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <button class="btn btn-primary" data-dismiss="modal" type="button">$/;"	function	line:508
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <i class="fa fa-times"><\/i>$/;"	function	line:509
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">$/;"	function	line:520
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^      <div class="modal-dialog">$/;"	function	line:521
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^        <div class="modal-content">$/;"	function	line:522
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="close-modal" data-dismiss="modal">$/;"	function	line:523
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <div class="lr">$/;"	function	line:524
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <div class="rl"><\/div>$/;"	function	line:525
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="container">$/;"	function	line:528
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <div class="row">$/;"	function	line:529
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <div class="col-lg-8 mx-auto">$/;"	function	line:530
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="modal-body">$/;"	function	line:531
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <h2>Minimising Injuries and Severity<\/h2>$/;"	function	line:533
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <p class="item-intro text-muted">Feature Engineering<\/p>$/;"	function	line:534
+img	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <img class="img-fluid d-block mx-auto" src="img\/portfolio\/05-full.jpg" alt="">$/;"	function	line:535
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <p>$/;"	function	line:536
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Vacationer within the Insights Analytics branch of technology consulting.<\/li>$/;"	function	line:537
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Assigned to a global client and responsible for assisting the team with trend analysis.<\/li>$/;"	function	line:538
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Analysed the relationship between variables within observation data, to assess whether there is a relationship between observations and events.<\/li>$/;"	function	line:539
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Used R to code a reproducible analysis of the data.<\/li>$/;"	function	line:540
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Produced a PowerPoint deck presenting the concepts behind our analysis, our method and results in an accessible format.<\/li>$/;"	function	line:541
+ul	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <ul class="list-inline">$/;"	function	line:543
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Date: January - February 2016<\/li>$/;"	function	line:544
+button	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <button class="btn btn-primary" data-dismiss="modal" type="button">$/;"	function	line:546
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <i class="fa fa-times"><\/i>$/;"	function	line:547
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">$/;"	function	line:558
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^      <div class="modal-dialog">$/;"	function	line:559
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^        <div class="modal-content">$/;"	function	line:560
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="close-modal" data-dismiss="modal">$/;"	function	line:561
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <div class="lr">$/;"	function	line:562
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <div class="rl"><\/div>$/;"	function	line:563
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^          <div class="container">$/;"	function	line:566
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^            <div class="row">$/;"	function	line:567
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^              <div class="col-lg-8 mx-auto">$/;"	function	line:568
+div	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                <div class="modal-body">$/;"	function	line:569
+h	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <h2>Analysing Unclaimed Money<\/h2>$/;"	function	line:571
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <p class="item-intro text-muted">Linear Modelling of Financial Data<\/p>$/;"	function	line:572
+img	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <img class="img-fluid d-block mx-auto" src="img\/portfolio\/06-full.jpg" alt="">$/;"	function	line:573
+p	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <p>$/;"	function	line:574
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Sourced and merged public data.<\/li>$/;"	function	line:575
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Cleaned and restructured inconsistencies.<\/li>$/;"	function	line:576
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Reported on emerging generalised linear model (GLM) theory.<\/li>$/;"	function	line:577
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Prepared statistical report in RMarkdown format.<\/li>$/;"	function	line:578
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Modelled frequencies using a variety of statistical models.<\/li>$/;"	function	line:579
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Evaluated appropriateness of model using residual analysis, quantile plots and ANOVA tables.<\/li>$/;"	function	line:580
+ul	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <ul class="list-inline">$/;"	function	line:582
+li	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <li>Date: July - November 2015<\/li>$/;"	function	line:583
+button	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                  <button class="btn btn-primary" data-dismiss="modal" type="button">$/;"	function	line:585
+i	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^                    <i class="fa fa-times"><\/i>$/;"	function	line:586
+script	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <script src="vendor\/jquery\/jquery.min.js"><\/script>$/;"	function	line:597
+script	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <script src="vendor\/popper\/popper.min.js"><\/script>$/;"	function	line:598
+script	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <script src="vendor\/bootstrap\/js\/bootstrap.min.js"><\/script>$/;"	function	line:599
+script	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <script src="vendor\/jquery-easing\/jquery.easing.min.js"><\/script>$/;"	function	line:602
+script	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <script src="js\/jqBootstrapValidation.js"><\/script>$/;"	function	line:605
+script	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <script src="js\/contact_me.js"><\/script>$/;"	function	line:606
+script	C:\Users\BR\Documents\GitHub\Anjs04.github.io\index.html	/^    <script src="js\/agency.min.js"><\/script>$/;"	function	line:609

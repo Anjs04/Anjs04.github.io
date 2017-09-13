@@ -1,0 +1,63 @@
+Project Name: Automating Checks of Forecasts
+Image: random code in sublime
+Skill: Automation
+Description:
+ Automating checks and remodeling the base forecast for major future transport projects, including population and employment per travel zone.
+•	Coded checks for negative values, control totals by the year and statistical area.
+•	Created an executable R file to generate the checks.
+•	Produced flexible code with a user manual containing all data assumptions.
+Date: July 2017
+
+Project Name: Estimating Rental Rebates
+Image: 8 graphs without labels
+Skill: What-if Analysis, Dep. of Social Services Demographics Data
+Description:
+•	Developed full plan for analysis by assessing available data.
+•	Integrated SGS Rental Affordability Index with public Dep. of Social Services data.
+•	Conducted what-if analysis using assumptions of income for four target groups.
+•	Estimated the housing stress of each target group, used to estimate budget.
+Date: June 2017
+
+Project Name: Journeying Through Opal Data
+Image: screenshot of USYD destination
+Skill: Tableau Path Mapping, Transport Data Cleansing
+•	Joined requested Opal data with GTFS data for mapping.
+•	Joined with statistical areas for aggregation of the LGA of the origin, to the University destination.
+•	Produced Tableau dashboard using paths to map journeys with dynamic filters.
+•	Aggregated publically available Journey to Work data.
+Date: May 2017
+
+Project Name: Surveying Digital Capacity
+Image: spatial mapping in R x2 + correlation plot
+Skill: GIS mapping in R, Survey Data Analysis
+Description:
+•	Casual researcher with the Institute of Culture and Society at Western Sydney University.
+•	Conducted spatial analysis using private and open data in order to enable better informed public policy decisions about future digital infrastructure, regulatory frameworks, research, and strategies for enhancing digital capacity and support across communities.
+•	Co-authored a journal article on the Digital Capacity Index.
+•	Designed and coded choropleth and scatterplot maps using GIS capabilities within R using ABS-provided shapefiles with the ggplot2 package.
+•	Created interactive graphs using Plotly integrated with R.
+•	Produced correlation matrix to show clustering of digital capacities.
+Date: December 2015, April - May 2016
+
+Project Name: Minimising Injuries and Severity
+Image: wiki construction image
+Skill: Feature Engineering
+Description:
+•	Vacationer within the Insights Analytics branch of technology consulting.
+•	Assigned to a global client and responsible for assisting the team with trend analysis.
+•	Analysed the relationship between variables within observation data, to assess whether there is a relationship between observations and events.
+•	Used R to code a reproducible analysis of the data.
+•	Produced a PowerPoint deck presenting the concepts behind our analysis, our method and results in an accessible format.
+Date: January - February 2016
+
+Project Name: Analysing Unclaimed Money
+Image: GLM equation, regex code
+Skill: Linear Modelling of Financial Data
+Description:
+•	Sourced and merged public data.
+•	Cleaned and restructured inconsistencies.
+•	Reported on emerging generalised linear model (GLM) theory.
+•	Prepared statistical report in RMarkdown format.
+•	Modelled frequencies using a variety of statistical models.
+•	Evaluated appropriateness of model using residual analysis, quantile plots and ANOVA tables.
+Date: July - November 2015
